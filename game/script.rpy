@@ -25,6 +25,7 @@ label start:
     play music "spoopy.mp3" fadeout 3.0 fadein 3.0
     show northwall
     with fade
+    show screen imagebutton_test()
     show screwdriver at Position(xpos = 0.7, xanchor=0.5, ypos=0.5, yanchor=0.5)
 
 menu:

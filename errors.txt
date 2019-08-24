@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 37: expected menuitem
-    show screwdriver at 
-    ^
+File "game/custom_screens.rpy", line 7: u'text' is not a keyword argument or valid child for the imagebutton statement.
+    text "The screwdriver was added to your inventory."
+        ^
 
 Ren'Py Version: Ren'Py 7.1.3.1092
-Sat Jan 19 21:34:44 2019
+Sat Aug 24 16:01:36 2019
